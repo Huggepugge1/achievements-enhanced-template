@@ -1,5 +1,5 @@
 id,link,title,deadline,done,present_soon,grade,presenting_type,programming_language,sprint,comment
-A1,https://uppsala.instructure.com/courses/97453/pages/achievements#1,Procedurell abstraktion,,false,false,3,Lab,C,Sprint1,
+A1,https://uppsala.instructure.com/courses/97453/pages/achievements#1,Procedurell abstraktion,,true,false,3,Lab,C,Sprint1,
 A2,https://uppsala.instructure.com/courses/97453/pages/achievements#2,Objektorienterad abstraktion,,false,false,3,Lab,Java,Sprint3,
 A3,https://uppsala.instructure.com/courses/97453/pages/achievements#3,Informationsgömning,,false,false,4,Lab,C,Sprint2,
 A8,https://uppsala.instructure.com/courses/97453/pages/achievements#8,Gränssnitt mellan moduler,,false,false,4,Lab,C,Sprint2,
